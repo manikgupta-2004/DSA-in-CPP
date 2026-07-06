@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/manikgupta-2004/DSA-codes/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/manikgupta-2004/DSA-codes/tree/master/0371-sum-of-two-integers) |
+| [2769-find-the-maximum-achievable-number](https://github.com/manikgupta-2004/DSA-codes/tree/master/2769-find-the-maximum-achievable-number) |
 ## Prefix Sum
 |  |
 | ------- |
