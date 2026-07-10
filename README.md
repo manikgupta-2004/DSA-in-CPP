@@ -11,24 +11,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manikgupta-2004/DSA-codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manikgupta-2004/DSA-codes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/manikgupta-2004/DSA-codes/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/manikgupta-2004/DSA-codes/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/manikgupta-2004/DSA-codes/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/manikgupta-2004/DSA-codes/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manikgupta-2004/DSA-codes/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/manikgupta-2004/DSA-codes/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manikgupta-2004/DSA-codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manikgupta-2004/DSA-codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manikgupta-2004/DSA-codes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/manikgupta-2004/DSA-codes/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/manikgupta-2004/DSA-codes/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/manikgupta-2004/DSA-codes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/manikgupta-2004/DSA-codes/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/manikgupta-2004/DSA-codes/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -64,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manikgupta-2004/DSA-codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/manikgupta-2004/DSA-codes/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
