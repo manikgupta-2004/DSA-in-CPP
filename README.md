@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/manikgupta-2004/DSA-codes/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/manikgupta-2004/DSA-in-CPP/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/manikgupta-2004/DSA-codes/tree/master/0371-sum-of-two-integers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/manikgupta-2004/DSA-codes/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manikgupta-2004/DSA-codes/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/manikgupta-2004/DSA-in-CPP/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/manikgupta-2004/DSA-codes/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manikgupta-2004/DSA-codes/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/manikgupta-2004/DSA-codes/tree/master/0349-intersection-of-two-arrays) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/manikgupta-2004/DSA-in-CPP/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
